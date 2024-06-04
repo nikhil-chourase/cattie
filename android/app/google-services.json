@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275653919137",
+    "project_id": "cattie-c83d3",
+    "storage_bucket": "cattie-c83d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275653919137:android:8363ef041fa67a0d6a8be0",
+        "android_client_info": {
+          "package_name": "com.example.cattie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTPyuwqoBYXS5Z4NzvFFJ9g3he3IGTPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
