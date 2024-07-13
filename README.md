@@ -16,3 +16,4 @@ Ui and features of the app.
 ![cattie5](https://github.com/user-attachments/assets/ae4ed8a7-adf0-45f9-befe-a37b82a1ea96)
 ![cattie7](https://github.com/user-attachments/assets/857cbd14-511f-49ca-9add-a44163ed5c93)
 ![cattie3](https://github.com/user-attachments/assets/7ec777f0-4728-4732-b4e2-5130c0efab11)
+![cattie image](https://github.com/user-attachments/assets/f1a989c9-0f10-43c3-a3db-43adaf837a9a)
